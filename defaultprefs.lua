@@ -17,10 +17,12 @@ prefs={
   autosaveTurns=false,
   noSmoothMovement=false,
   noSmoothCamera=false,
-  statsOnSidebar=false,
+  statsOnSidebar=true,
   plainFonts=false,
+  minimap=true,
   lastMods={},
-  vsync=true
+  vsync=true,
+  uiScale=1,
 }
 
 require "keybindings"
